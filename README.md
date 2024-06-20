@@ -6,6 +6,7 @@ Open NPU is an open-source initiative aiming to develop a free and open neural p
 
 ## References
 1. [Intel FPGA NPU](https://github.com/intel/fpga-npu)
+2. [NPU MNIST Classifier](https://www.ee.columbia.edu/~kinget/EE6350_S23/team08_npu_website/methodology.html)
 
 ## Table of Contents
 - [Introduction](#introduction)
